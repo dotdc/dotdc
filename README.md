@@ -10,7 +10,7 @@ I'm currently focused on Observability, Reliability and Performance aspects of K
 ❤️ Open Source\
 💻 Running Arch Linux \
 🎯 Always learning something new \
-💾 Enjoy old adventures games \
+💾 Enjoy old adventure games \
 🧗‍♂️ Rock climber \
 🍺 IPA & Wine \
 ⚡ Fun fact: started computing before 2yo!
