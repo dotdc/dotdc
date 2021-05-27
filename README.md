@@ -24,15 +24,14 @@ I'm currently focused on Observability, Reliability and Performance aspects of K
     <img alt="Vault" src="https://img.shields.io/badge/vault-flat?author=dotdc&style=for-the-badge&logo=vault&logoColor=white&color=black" />
     <img alt="Ansible" src="https://img.shields.io/badge/ansible-flat?author=dotdc&style=for-the-badge&logoColor=white&logo=ansible&color=EE0000" />
     <img alt="Vagrant" src="https://img.shields.io/badge/vagrant-flat?author=dotdc&style=for-the-badge&logo=vagrant&logoColor=white&color=1868F2" />
-    <br>
     <img alt="NGINX" src="https://img.shields.io/badge/nginx-flat?author=dotdc&style=for-the-badge&logo=nginx&logoColor=white&color=009639"/>
+    <img alt="Vivaldi" src="https://img.shields.io/badge/vivaldi-flat?author=dotdc&style=for-the-badge&logo=vivaldi&logoColor=white&color=EF3939"/>
     <img alt="Docker" src="https://img.shields.io/badge/docker-flat?author=dotdc&style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
     <img alt="Helm" src="https://img.shields.io/badge/helm-flat?author=dotdc&style=for-the-badge&logo=helm&logoColor=white&color=0F1689" />
     <img alt="Prometheus" src="https://img.shields.io/badge/prometheus-flat?author=dotdc&style=for-the-badge&logo=prometheus&logoColor=white&color=E6522C" />
     <img alt="Grafana" src="https://img.shields.io/badge/grafana-flat?author=dotdc&style=for-the-badge&logo=grafana&logoColor=white&color=F46800" />
     <img alt="Elasticsearch" src="https://img.shields.io/badge/elasticsearch-flat?author=dotdc&style=for-the-badge&logo=elasticsearch&logoColor=white&color=005571" />
     <img alt="Fluentbit" src="https://img.shields.io/badge/fluentbit-flat?author=dotdc&style=for-the-badge&logo=fluentd&logoColor=white&color=0E83C8" />
-    <br>
     <img alt="Kibana" src="https://img.shields.io/badge/kibana-flat?author=dotdc&style=for-the-badge&logo=kibana&logoColor=white&color=005571" />
     <img alt="Git" src="https://img.shields.io/badge/git-flat?author=dotdc&style=for-the-badge&logo=git&logoColor=white&color=F05032" />
     <img alt="GitHub" src="https://img.shields.io/badge/github-flat?author=dotdc&style=for-the-badge&logo=github&logoColor=white&color=181717" />
