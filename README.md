@@ -1,4 +1,4 @@
-<h1>👋 Welcome to my Github profile! 👋</h1>
+<h2>Hi there! 👋</h2>
 
 My name is David, I'm a DevOps Engineer working remotely from the south of France.\
 I'm currently focused on Observability, Reliability and Performance aspects of Kubernetes clusters.
