@@ -5,8 +5,6 @@ I'm currently focused on Observability, Reliability and Performance aspects of K
 
 <h3>About me:</h3>
 
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=dotdc&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=vue" align="right" />
-
 ❤️ Open Source\
 💻 Running Arch Linux \
 🎯 Always learning something new \
