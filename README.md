@@ -12,6 +12,6 @@ I'm currently focused on Observability, Reliability and Security aspects of Kube
 👶 Dad \
 🧗‍♂️ Rock climber \
 🍺 IPA & Wine \
-⚡ Fun fact: started computing before 2yo!
+🤓 Fun fact: started computing before 2yo!
 <br>
 </div>
