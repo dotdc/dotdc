@@ -20,6 +20,7 @@ I'm currently focused on Observability, Reliability and Security aspects of Kube
 <h3>Where to find me:</h3>
 
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+[![Mastodon](https://img.shields.io/badge/Mastodon-5c4ce2?logo=mastodon&logoColor=fff&style=for-the-badge)](https://hachyderm.io/@0xDC) 
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/0xDC_) 
 [![Medium](https://img.shields.io/badge/Medium-fff?logo=medium&logoColor=000&style=for-the-badge)](https://medium.com/@dotdc#gh-dark-mode-only) 
 [![Medium](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@dotdc#gh-light-mode-only) 
