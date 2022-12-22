@@ -1,7 +1,7 @@
 <h2>Hi there! 👋</h2>
 
-My name is David, I'm a DevOps Engineer working remotely from the south of France.\
-I'm currently focused on Observability, Reliability and Security aspects of Kubernetes clusters running on AWS.
+My name is David, I'm a Site Reliability Engineer working remotely from the south of France.\
+I'm currently focused on Observability, Reliability and Security aspects of Kubernetes clusters running on several cloud platforms.
 
 <h3>About me:</h3>
 
