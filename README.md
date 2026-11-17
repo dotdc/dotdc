@@ -1,15 +1,7 @@
-## Hi there! 👋
+## Hi, I'm David 👋
 
-My name is David Calvert, I'm a Site Reliability & Platform Engineer working remotely from the south of France.\
-With over 12 years of experience across large-scale and business-critical systems, I’ve built reliable and observable platforms using cloud, on-prem and hybrid architectures. I now focus on creating internal tools and developer platforms that improve reliability, scalability and engineering productivity as a Staff Site Reliability & Platform Engineer.
+I'm an engineer working remotely from the south of France. I lead a team while staying hands-on, and I write about engineering leadership, infrastructure, observability and security on [0xdc.me](https://0xdc.me).
 
-## About me
+Away from the keyboard, I enjoy rock climbing, reading, music and old adventure games.
 
-❤️ Open Source \
-✍️ Writer \
-💻 Running Arch Linux \
-🎯 Always learning something new \
-💾 Enjoy old adventure games \
-👶 Dad \
-🧗‍♂️ Rock climber \
-🤓 Fun fact: started typing before 2yo!
+[Blog](https://0xdc.me) · [LinkedIn](https://www.linkedin.com/in/0xdc/) · [Bluesky](https://bsky.app/profile/0xdc.me)
